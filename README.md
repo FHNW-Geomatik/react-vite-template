@@ -10,12 +10,12 @@
 
 - dieses Repo forken (eine Kopie wird in dem persönlichem GitHub Konto angelegt)
 
-<img src="image.png" width=200/>
+<img src="public/image.png" width=200/>
 
 ### 2. Neues Repository erstellen
 
 - für neuen Projekte einfach die "Use this template" Funktion von GitHub verwenden:
-  ![alt text](image-1.png)
+  ![alt text](public/image-1.png)
 
 ### 3. Installieren
 
